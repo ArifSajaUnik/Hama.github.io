@@ -1,0 +1,17 @@
+body {
+  background-color: grey;
+}
+.judul {
+  text-align: center;
+  color: aqua;
+  background-color: black;
+}
+.akun {
+  text-align: center;
+}
+.akun input {
+  background-color: aquamarine;
+  border-color: green;
+  border-block-end-color: cadetblue;
+}
+
